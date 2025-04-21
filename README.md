@@ -11,9 +11,11 @@
 ✅ 기능경기대회 준비에 필요했던 PHP, 모바일 게임 서버 개발을 위한 Java 경험을 통해 백엔드와의 원활한 커뮤니케이션 역량도 갖추고 있어요.
 </p>
 <p>✅ 혼자 하는 개발이 아닌, 동료들과 함께 공유하고 고민하면서 더 나은 프로덕트를 만들기 위해 노력하는 개발자가 되고자 합니다.</p>
+<br />
+<br />
 
-# Tech stacks
-Front-end
+# 📚 Tech stacks
+## Front-end
   <div>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -28,31 +30,36 @@ Front-end
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   </div>
   <div>
-    Tanstack Query, MobX
+    <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+    <img src="https://img.shields.io/badge/mobx-FF9955?style=for-the-badge&logo=mobx&logoColor=white">
+    <img src="https://img.shields.io/badge/vuex-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
   </div>
   <div>
+    <img src="https://img.shields.io/badge/styled%20component-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
     <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   </div>
   <div>
-    시멘틱 마크업, 웹접근성, 웹표준
+    <img src="https://img.shields.io/badge/Semantic%20Markup-F8DC75?style=for-the-badge">
+    <img src="https://img.shields.io/badge/web%20accessibility-66E3FF?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Web%20Standards-04AA6D?style=for-the-badge">
   </div>
-
-Back-end
+  
+## Back-end
   <div>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
   </div>
-
-Tool
+  
+## ETC
   <div>
-    Git, Github, Bitbucket, Gitlab, SVN
-  </div>
-  <div>
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+    <img src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
+    <img src="https://img.shields.io/badge/svn-417fda?style=for-the-badge&logo=svn&logoColor=white">
     <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
     <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-
-Etc
-- AWS, Redis, MySQL, Docker
+  </div>
