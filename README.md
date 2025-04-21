@@ -63,3 +63,10 @@
     <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
     <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   </div>
+
+
+# Contact
+<div>
+  <a href=mailto:haeru29@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <a href=https://hplayground.tistory.com _target="blank"><img src="https://img.shields.io/badge/Tistory-f54?style=for-the-badge&logo=Tistory&logoColor=white"></a>
+</div>
