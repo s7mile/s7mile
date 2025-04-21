@@ -11,3 +11,48 @@
 ✅ 기능경기대회 준비에 필요했던 PHP, 모바일 게임 서버 개발을 위한 Java 경험을 통해 백엔드와의 원활한 커뮤니케이션 역량도 갖추고 있어요.
 </p>
 <p>✅ 혼자 하는 개발이 아닌, 동료들과 함께 공유하고 고민하면서 더 나은 프로덕트를 만들기 위해 노력하는 개발자가 되고자 합니다.</p>
+
+# Tech stacks
+Front-end
+  <div>
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white">
+    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  </div>
+  <div>
+    Tanstack Query, MobX
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  </div>
+  <div>
+    시멘틱 마크업, 웹접근성, 웹표준
+  </div>
+
+Back-end
+  <div>
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  </div>
+
+Tool
+  <div>
+    Git, Github, Bitbucket, Gitlab, SVN
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+    <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+
+Etc
+- AWS, Redis, MySQL, Docker
