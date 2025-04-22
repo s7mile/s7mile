@@ -15,7 +15,7 @@
 <br />
 
 <h1>📚 Tech stacks</h1>
-<h2>🔥 최근 회사에서 따끈하게 사용 중!</h2>
+<h2>🔥 최근 주력!</h2>
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
